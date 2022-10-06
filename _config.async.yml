@@ -1,2 +1,40 @@
 theme: 
   default: style-dark
+favicon:
+  logo: favicon-32x32.png
+  icon16: favicon-16x16.png 
+  icon32: favicon-32x32.png
+  appleTouchIcon: favicon.png
+  visibilitychange: true
+  hidden: favicon-32x32h.png
+  show_text: Hello!
+  hide_text: Bye!
+user:
+  name: 特坑工作室
+  first_name: Studio
+  last_name: TK
+  email: tkoffice@foxmail.com
+  domain: https://liuziheng20091106.github.io/TKBlog
+  avatar: /img/avatar.jpg
+  describe: TK Studio Blog
+  ruleText: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+sidebar:
+  info: # 个人信息 
+    - key: 学历
+      val: 初中
+    - key: 年龄
+      val: 13
+    - key: 学校
+      val: 山东省烟台市莱山校区
+    - key: 班级
+      val: 初2021级3班
+  social:  # 社交地址
+    - name: Github
+      icon: fab fa-github   
+      url: https://github.com/liuziheng20091106
+    - name: Luogu
+      icon: fas fa-code
+      url: https://www.luogu.com.cn/user/581439
+  typedTextPrefix: 我是
+  typedText: [ '一个OIer','一个电脑爱好者','一个中二少年','一个蒟蒻' ]
+
